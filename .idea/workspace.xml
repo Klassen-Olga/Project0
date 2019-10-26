@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="37e94c61-51b2-47a3-95d2-0d51ec278ef3" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="37e94c61-51b2-47a3-95d2-0d51ec278ef3" name="Default Changelist" comment="">
+    <list default="true" id="11007f12-aa7e-4e1f-bbb6-07a857596fb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/de/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/MyClass.java" afterDir="false" />
     </list>
->>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RejjfKyU0KuDVmFSnx7kWRU8p3" />
+  <component name="ProjectId" id="1SWStVMUTYw7o3edHHLeL11PKvL" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,16 +32,36 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.MyClass" />
+      <module name="Project0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37e94c61-51b2-47a3-95d2-0d51ec278ef3" name="Default Changelist" comment="" />
-      <created>1570034591238</created>
+      <changelist id="11007f12-aa7e-4e1f-bbb6-07a857596fb2" name="Default Changelist" comment="" />
+      <created>1571659522248</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570034591238</updated>
+      <updated>1571659522248</updated>
     </task>
     <servers />
   </component>
