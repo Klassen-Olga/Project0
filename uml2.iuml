@@ -1,8 +1,8 @@
 @startuml
-Event -* Stage : > has
-Client -* Ticket : > has
-Event - Ticket : > owns
+Event -* Ticket : > owns
 Event -* Band : > has
+Stage *- Event : > has
+Ticket *- Client : > has
 
 class Client{
 -int id
@@ -17,6 +17,7 @@ class Ticket{
 +Ticket(int iD, boolean available, Event event)
 +sell(client c)
 }
+
 class Event{
 -int id
 -String date
@@ -51,5 +52,3 @@ class Stage{
 +stage(int id, String name, int numberOfPlaces, String country, String city, String street,String zip)
 }
 @enduml
-
-
