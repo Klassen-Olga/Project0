@@ -3,7 +3,6 @@ Event -* Ticket : > owns
 Event -* Band : > has
 Stage *- Event : > has
 Ticket *- Client : > has
-
 class Client{
 -int id
 -String name
